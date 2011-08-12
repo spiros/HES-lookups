@@ -26,3 +26,77 @@ The complete HES data dictionary can be found at: http://www.hesonline.nhs.uk/Ea
     <td>admisorc</td><td>Source of admission</td>
   </tr>
 </table>
+
+#### Clinical
+
+<table>
+  <tr>
+    <th>Variable</th><th>Definition</th>
+  </tr>
+  <tr>
+    <td>classpat</td><td>Patient classification</td>
+  </tr>
+  <tr>
+    <td>intmagig</td><td>Intended management</td>
+  </tr>
+  <tr>
+    <td>mainspef</td><td>Main speciality</td>
+  </tr>
+  <tr>
+    <td>tretspef</td><td>Treatment speciality</td>
+  </tr>
+</table>
+
+
+#### Discharges
+
+<table>
+  <tr>
+    <th>Variable</th><th>Definition</th>
+  </tr>
+  <tr>
+    <td>disdest</td><td>Discharge destination</td>
+  </tr>
+  <tr>
+    <td>dis_cfl</td><td>Discharge date check flag</td>
+  </tr>
+  <tr>
+    <td>dismeth</td><td>Method of discharge</td>
+  </tr>
+</table>
+
+#### Episodes
+
+<table>
+  <tr>
+    <th>Variable</th><th>Definition</th>
+  </tr>
+  <tr>
+    <td>epie_cfl</td><td>Episode end date check flag</td>
+  </tr>
+  <tr>
+    <td>epis_cfl</td><td>Episode start date check flag</td>
+  </tr>
+  <tr>
+    <td>epitype</td><td>Episode type</td>
+  </tr>
+  <tr>
+    <td>epistat</td><td>Episode status</td>
+  </tr>
+  
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
