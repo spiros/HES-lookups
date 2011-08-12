@@ -1,0 +1,6 @@
+1,"General episode (anything that is not covered by the other codes)"
+2,"Delivery episode"
+3,"Birth episode"
+4,"Formally detained under the provisions of mental health legislation or long-term (over one year) psychiatric patients who should have additional information recorded on the psychiatric census. This value can only appear in unfinished records"
+5,"Other delivery event"
+6,"Other birth event"
