@@ -1,0 +1,6 @@
+1,"Ordinary admission"
+2,"Day case admission"
+3,"Regular day attender"
+4,"Regular night attender"
+5,"Mothers and babies using only delivery facilities"
+8,"Not applicable (other maternity event)"

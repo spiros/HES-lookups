@@ -1,0 +1,7 @@
+1,"Patient to stay in hospital for at least one night"
+2,"Patient not to stay in hospital overnight"
+3,"Patient to have a planned series of admissions; at least one overnight stay"
+4,"Patient to have a planned sequence of admissions; no overnight stay"
+5,"Patient to be admitted regularly for a sequence of nights; rest of the 24 hour period at home"
+8,"Not applicable"
+9,"Not known"
