@@ -1,0 +1,4 @@
+0",First in a series"
+1,"Subsequent to first in a series"
+8,"Not applicable: this episode of care is neither the first nor any subsequent attendance within a sequence of regular day/night admissions"
+9,"Not known: this episode is an attendance within a sequence of regular day/night admissions, but the status of this episode within the attendance is not known: a validation error"
