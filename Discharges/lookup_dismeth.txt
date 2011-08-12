@@ -1,0 +1,7 @@
+1,"Discharged on clinical advice or with clinical consent"
+2,"Self discharged, or discharged by a relative or advocate"
+3,"Discharged by a mental health review tribunal, the Home Secretary or a court"
+4,"Died"
+5,"Baby was still born"
+8,"Not applicable: patient still in hospital"
+9,"Not known: a validation error"
