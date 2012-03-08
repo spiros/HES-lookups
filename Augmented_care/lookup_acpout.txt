@@ -1,0 +1,5 @@
+01,"Survived"
+02,"Died: no organ donation"
+03,"Died: organs donated"
+98,"Not applicable: Augmented care period not finished"
+99,"Not known"
